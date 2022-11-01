@@ -1,8 +1,8 @@
 package qychan
 
 import (
+	" github.com/heyangwenphp/qychan/util"
 	"fmt"
-	"qychan/util"
 	"strconv"
 	"time"
 )
